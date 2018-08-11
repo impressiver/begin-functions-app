@@ -1,0 +1,7 @@
+{
+  "name": "dictum-n8q-get-echo-000str",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin-functions/data": "latest"
+  }
+}
