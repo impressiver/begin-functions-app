@@ -6,14 +6,14 @@ let defaultHTML = `
 <html lang=en>
   <head>
     <meta charset=utf-8>
-    <title>Hi!</title>
+    <title>Hello World</title>
     <link rel="stylesheet" href="https://static.begin.app/starter/default.css">
   </head>
   <body>
 
     <h1 class="center-text">
       <!-- ↓ Change "Hello world!" to something else and head on back to Begin! -->
-      Hello world!
+      We has Begin'd.
     </h1>
 
     <p class="center-text">
