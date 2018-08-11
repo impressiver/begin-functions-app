@@ -6,10 +6,10 @@ let defaultHTML = `
 <html lang=en>
   <head>
     <meta charset=utf-8>
-    <title>Hi!</title>
+    <title>Echo</title>
   </head>
   <body style="font-family: sans-serif;">
-    <h1>Hello world!</h1>
+    <h1>Path: "${req.param['str'].replace(/[^\w\d]+/g, '-').trim()}"</h1>
   </body>
 </html>
 `
